@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6A4B4&height=80&section=header"/>
-</p>
-
 <h1 align="center" style="color:#C8A2C8;">Samruddhi</h1>
 
 <p align="center">
@@ -12,7 +8,11 @@
 
 ### About me
 - I'm currently pursuing **BTech in Information Technology**  
-- curious mind, calm vibe  
+- curious mind, calm vibe
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6A4B4&height=80&section=header"/>
+</p>
 
 ---
 
