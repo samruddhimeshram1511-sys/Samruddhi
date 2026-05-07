@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=80&section=header"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:08111f,50:0d1b3d,100:132850&section=header"/>
 
 <h1 align="center" style="color:#FE428E;">Samruddhi</h1>
 
@@ -38,6 +36,4 @@
 > not rushing. just growing.
 &nbsp;
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=80&section=header"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:08111f,50:0d1b3d,100:132850&section=header"/>
